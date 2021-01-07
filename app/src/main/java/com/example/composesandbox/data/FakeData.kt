@@ -53,4 +53,4 @@ var exampleContents = arrayOf(
 
 val exampleConversation = Conversation(initialMessages, "Paul Chang")
 val exampleConversations: List<Conversation> =
-    listOf(Conversation(initialMessages, "Paul Chang"), Conversation(initialMessages, "Jane Luo"))
+    listOf(Conversation(initialMessages, "John Glenn"), Conversation(initialMessages, "Taylor Brooks"))
